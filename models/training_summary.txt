@@ -1,0 +1,9 @@
+endpoint=https://huggingface.co/datasets/linrock/bullet-training-data/resolve/main/S1/UHO.pdist.iter-1.bullet.bin.zst
+compressed_bytes_limit=2097152
+decompressed_bytes=4063232
+records_parsed=2000
+loss_before=0.3476663984993372
+loss_after=0.34765362302757075
+num_models=5
+variation=0.1
+seed=123
