@@ -1,0 +1,1 @@
+records=245759 samples=800 loss_before=0.630283 loss_after=0.627556
